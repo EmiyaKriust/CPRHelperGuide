@@ -6,12 +6,12 @@ Features
 
 Real-time display of compression depth, rate, and recoil
 
-Practice mode (free operation) and assessment mode (timed scoring)
+Practice mode (free operation) and assessment mode (scoring)
 
 Voice and text prompts to guide proper technique
 
 Running Instructions
-OS: Windows / macOS (actual version depends on the build environment)
+OS: Windows
 
 Extract and open with Unity
 
